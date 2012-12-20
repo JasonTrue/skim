@@ -1,4 +1,4 @@
-Skim [ ![Build status](http://travis-ci.org/jfirebaugh/skim.png) ](http://travis-ci.org/jfirebaugh/skim)
+Skim [ ![Build status](https://travis-ci.org/grossws/skim.png) ](https://travis-ci.org/grossws/skim)
 ====
 
 Take the fat out of your client-side templates with Skim. Skim is the [Slim](http://slim-lang.com/) templating engine
